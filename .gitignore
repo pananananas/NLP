@@ -160,7 +160,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-
 /annotations
 embeddings/embeddings_comparison.numbers
 embeddings/word-fasttext-embeddings.csv
@@ -168,5 +167,10 @@ embeddings/word-word2vec_embeddings.csv
 dataset_conll
 bert/bert-lora
 /bert/mlruns
-
+/bert/fine-tuned-peft-model-weights
+/bert/all_texts.csv
+/bert/logs
+/bert/herbert-lora
+bert/fine-tuned-peft-herbert-model-weights
+bert/final-fine-tuned-peft-herbert-model
 .DS_Store
