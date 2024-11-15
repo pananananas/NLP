@@ -170,7 +170,12 @@ bert/bert-lora
 /bert/fine-tuned-peft-model-weights
 /bert/all_texts.csv
 /bert/logs
+/bert/results
 /bert/herbert-lora
 bert/fine-tuned-peft-herbert-model-weights
 bert/final-fine-tuned-peft-herbert-model
+bert/fine-tuned-herbert-token-classification
+bert/fine-tuned-bert-token-classification
+bert/all_words.csv
+bert/patryk.jsonl
 .DS_Store
