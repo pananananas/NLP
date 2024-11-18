@@ -21,10 +21,10 @@ BERT:
 
 GPT:
 - [x] Sequence Classification
-- [ ] Token Classification
+- [x] Token Classification
 - [x] Ocenić jakość predykcji
 - [x] Wizualizacja przestrzeni wektorowej (Sequence Classification)
-- [ ] Data augumentation
+- [x] Data augumentation
 
 
 Częsc 2

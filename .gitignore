@@ -176,6 +176,7 @@ llms/fine-tuned-peft-herbert-model-weights
 llms/final-fine-tuned-peft-herbert-model
 llms/fine-tuned-herbert-token-classification
 llms/fine-tuned-bert-token-classification
+llms/gpt-lora
 llms/all_texts.csv
 llms/all_words.csv
 llms/patryk.jsonl
