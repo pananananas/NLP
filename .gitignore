@@ -153,6 +153,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+.DS_Store
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
@@ -165,17 +166,18 @@ embeddings/embeddings_comparison.numbers
 embeddings/word-fasttext-embeddings.csv
 embeddings/word-word2vec_embeddings.csv
 dataset_conll
-bert/bert-lora
-/bert/mlruns
-/bert/fine-tuned-peft-model-weights
-/bert/all_texts.csv
-/bert/logs
-/bert/results
-/bert/herbert-lora
-bert/fine-tuned-peft-herbert-model-weights
-bert/final-fine-tuned-peft-herbert-model
-bert/fine-tuned-herbert-token-classification
-bert/fine-tuned-bert-token-classification
-bert/all_words.csv
-bert/patryk.jsonl
-.DS_Store
+llms/bert-lora
+llms/mlruns
+llms/logs
+llms/results
+llms/herbert-lora
+llms/fine-tuned-peft-model-weights
+llms/fine-tuned-peft-herbert-model-weights
+llms/final-fine-tuned-peft-herbert-model
+llms/fine-tuned-herbert-token-classification
+llms/fine-tuned-bert-token-classification
+llms/all_texts.csv
+llms/all_words.csv
+llms/patryk.jsonl
+llms/train.jsonl
+llms/test.jsonl

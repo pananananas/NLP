@@ -17,13 +17,13 @@ BERT:
 - [x] Ocenić jakość predykcji
 - [x] Wizualizacja przestrzeni wektorowej (Sequence Classification)
 - [x] Data augumentation
-- [ ] Fine tuning bert na data augementation
+- [x] Fine tuning bert na data augementation
 
 GPT:
-- [ ] Sequence Classification
-- [x] Token Classification
-- [ ] Ocenić jakość predykcji
-- [ ] Wizualizacja przestrzeni wektorowej (Sequence Classification)
+- [x] Sequence Classification
+- [ ] Token Classification
+- [x] Ocenić jakość predykcji
+- [x] Wizualizacja przestrzeni wektorowej (Sequence Classification)
 - [ ] Data augumentation
 
 
