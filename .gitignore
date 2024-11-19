@@ -166,6 +166,7 @@ lab1/embeddings/word-fasttext-embeddings.csv
 lab1/embeddings/word-word2vec_embeddings.csv
 
 # lab2
+# logs
 llms/bert-lora
 llms/mlruns
 llms/logs
@@ -177,10 +178,12 @@ llms/final-fine-tuned-peft-herbert-model
 llms/fine-tuned-herbert-token-classification
 llms/fine-tuned-bert-token-classification
 llms/gpt-lora
+# data
 llms/all_texts.csv
 llms/all_words.csv
+llms/augmented_texts_bert.csv
+llms/augmented_texts_gpt2.csv
 llms/patryk.jsonl
 llms/train.jsonl
 llms/test.jsonl
-llms/augmented_texts_bert.csv
-llms/augmented_texts_gpt2.csv
+# 

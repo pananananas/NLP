@@ -1,15 +1,7 @@
-
 # TODO:
+## Lab 2
 
-- [] https://huggingface.co/models?search=polishgpt 
-
-- [] https://huggingface.co/google-bert/bert-base-uncased?text=My+name+is+%5BMASK%5D+Scott.+Im+the+boss+in+this+office.
-
-- [] https://huggingface.co/docs/transformers/en/main_classes/text_generation#transformers.GenerationConfig 
-do_sample(Ture), ustawiamy temperature.
-
-
-Częsc 1
+### Część 1
 
 BERT:
 - [x] Sequence Classification
@@ -27,7 +19,7 @@ GPT:
 - [x] Data augumentation
 
 
-Częsc 2
+### Część 2
 
 Odtworzyć badanie z artykułu na podstawie danych wsd
 - [ ] Analiza Anisotropy
