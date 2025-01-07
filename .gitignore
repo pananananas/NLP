@@ -159,6 +159,7 @@ cython_debug/
 dataset_conll
 dataset_wsd
 
+data/
 # lab1
 /annotations
 lab1/embeddings/embeddings_comparison.numbers
@@ -191,3 +192,4 @@ tattoos
 tattoos_embeddings
 data.csv
 lab4_rag/eval_results
+lab5/output
